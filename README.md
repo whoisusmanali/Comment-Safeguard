@@ -3,7 +3,7 @@ This project is about Natural Language Processing in which I downloaded the data
 
 # Working:
 This the most important to know to we are going to work on this project. So for this let's see how the project will work and steps involved in this project.
-
+ 
 1. We must have input data that could be comments from different sources with labels. Like, I hate you or I love you.
 2. After that we should have labels for these comments that tell us what kind of toxicity comment it was.
 3. Convert these comments into Tokens or in vectors like "I love you" the token of this might be [10,400,200] or anything else.
