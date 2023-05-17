@@ -13,5 +13,13 @@ This the most important to know to we are going to work on this project. So for 
 
 # Libraries Used:
 
-
+1. Pandas
+2. os
+3. numpy
+4. tensorflow
+5. from tensorflow.keras.layers import TextVectorization
+6. from tensorflow.keras.models import Sequential
+7. from tensorflow.keras.layers import LSTM,Bidirectional,Dense,Dropout,Embedding
+8. from tensorflow.keras.metrics import Precision,Recall,CategoricalAccuracy
+9. gradio
 
