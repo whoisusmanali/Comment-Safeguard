@@ -1,6 +1,6 @@
 # Comment_Toxicity
 This project is about Natural Language Processing in which I downloaded the dataset from Kaggle and do after doing data preprocessing apply the Deep Learning Sequential model.
-
+ 
 # Working:
 This the most important to know to we are going to work on this project. So for this let's see how the project will work and steps involved in this project.
  
