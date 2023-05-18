@@ -23,3 +23,17 @@ This the most important to know to we are going to work on this project. So for 
 8. from tensorflow.keras.metrics import Precision,Recall,CategoricalAccuracy
 9. gradio
 
+# Steps Involved:
+1. Import the Libraries
+2. Load the dataset by using Pandas in .csv file.
+3. Drop the null values
+4. Drop the unwanted columns/features
+5. Vectorize the dependent column by using TextVectorization
+6. Divide data into x and y
+7. Build data pipeline by using tensorflow slices
+8. Split the data into train and test
+9. Build the model with Bidirectional and Embedding layer
+10. Compile and train the model
+11. Make some Prediction
+12. Evaluate the model
+13. Deploy the model on Gradio
