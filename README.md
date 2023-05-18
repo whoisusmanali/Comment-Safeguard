@@ -22,7 +22,7 @@ This the most important to know to we are going to work on this project. So for 
 7. from tensorflow.keras.layers import LSTM,Bidirectional,Dense,Dropout,Embedding
 8. from tensorflow.keras.metrics import Precision,Recall,CategoricalAccuracy
 9. gradio
-
+ 
 # Steps Involved:
 1. Import the Libraries
 2. Load the dataset by using Pandas in .csv file.
