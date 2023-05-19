@@ -39,5 +39,9 @@ This the most important to know to we are going to work on this project. So for 
 13. Deploy the model on Gradio
 
 
-#ScreenShots:
+# ScreenShots:
 ![Capture3](https://github.com/whoisusmanali/Comment_Toxicity/assets/104086680/04d3aca4-68f6-4129-89c6-a7b09b0965a6)
+
+
+![Capture4](https://github.com/whoisusmanali/Comment_Toxicity/assets/104086680/75a329bc-3cc9-4c87-ba0f-6cb358087158)
+
