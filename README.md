@@ -47,4 +47,7 @@ This the most important to know to we are going to work on this project. So for 
 
 ![Capture5](https://github.com/whoisusmanali/Comment_Toxicity/assets/104086680/3633726c-b855-49ea-9b26-a9fb7039a8a6)
 
+![Capture](https://github.com/whoisusmanali/Comment_Toxicity/assets/104086680/ddcb9565-06f5-4c62-bf3b-c0b1824a2116)
+
+![Capture1](https://github.com/whoisusmanali/Comment_Toxicity/assets/104086680/b2775110-c560-409e-a9d7-bbbbf277902d)
 
