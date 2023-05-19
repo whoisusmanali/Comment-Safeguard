@@ -37,3 +37,7 @@ This the most important to know to we are going to work on this project. So for 
 11. Make some Prediction
 12. Evaluate the model
 13. Deploy the model on Gradio
+
+
+#ScreenShots:
+![Capture3](https://github.com/whoisusmanali/Comment_Toxicity/assets/104086680/04d3aca4-68f6-4129-89c6-a7b09b0965a6)
