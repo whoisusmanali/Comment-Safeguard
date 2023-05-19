@@ -45,3 +45,6 @@ This the most important to know to we are going to work on this project. So for 
 
 ![Capture4](https://github.com/whoisusmanali/Comment_Toxicity/assets/104086680/75a329bc-3cc9-4c87-ba0f-6cb358087158)
 
+![Capture5](https://github.com/whoisusmanali/Comment_Toxicity/assets/104086680/3633726c-b855-49ea-9b26-a9fb7039a8a6)
+
+
