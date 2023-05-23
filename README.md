@@ -11,7 +11,7 @@ This the most important to know to we are going to work on this project. So for 
 6. After completing our preprocessing we will pass this embedding vectors to deep neural network that will give us multi-binary outputs that will be checked by our 7. labels and make decision on toxicity.
 8. Then save this model into .h5 file and make an app on this model that will Gradio App which is ligt weight to deploy any deep learning model.
 
-# Libraries Used:
+# Libraries/Dependencies:
 
 1. Pandas
 2. os
